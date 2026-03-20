@@ -319,3 +319,11 @@ const revealObserver = new IntersectionObserver(entries => {
 document.querySelectorAll(".reveal").forEach(el => {
     revealObserver.observe(el);
 });
+
+const burger = document.getElementById("burger");
+
+if (burger && navContainer) {
+    burger.addEventListener("click", () => {
+        navContainer.classList.toggle("active");
+    });
+}
