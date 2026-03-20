@@ -1,0 +1,75 @@
+<!doctype html>
+
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Projet CMS - Portfolio</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <link rel="stylesheet" href="../style.css" />
+        <link rel="stylesheet" href="/style/skills.css" />
+        <link rel="stylesheet" href="/style/timeline.css" />
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+    </head>
+
+    <body>
+        <header>
+            <div class="logo">Maria-Luisa</div>
+            <nav id="navContainer"></nav>
+        </header>
+
+        <section class="project-hero">
+            <div class="project-links">
+                <a id="githubLink" class="btn github" target="_blank">
+                </a>
+
+                <a href="../projets.html" class="btn back">
+                    <i class="fa-solid fa-arrow-left"></i>
+                    Retour aux projets
+                </a>
+            </div>
+            <h1 id="projectTitle"></h1>
+
+            <p class="project-subtitle" id="projectContext"></p>
+
+            
+        </section>
+
+        <section class="project-section">
+            <h2>Stack technique</h2>
+
+            <div id="projectStack" class="stack-grid"></div>
+        </section>
+
+        <section class="project-section">
+            <h2>Description du projet</h2>
+
+            <p id="projectDescription"></p>
+        </section>
+
+        <section class="project-section">
+            <h2>Zoom technique</h2>
+
+            <div id="projectDetails" class="details-grid"></div>
+        </section>
+
+        <section class="project-section">
+            <h2>Quelques illustrations</h2>
+
+            <div class="project-image">
+                <img id="projectImage" src="" alt="capture projet" />
+            </div>
+        </section>
+
+        <div class="background-blur">
+            <div class="blob blob1"></div>
+            <div class="blob blob2"></div>
+            <div class="blob blob3"></div>
+        </div>
+
+        <script src="conf.js" defer></script>
+        <script src="project-loader.js" defer></script>
+    </body>
+</html>
