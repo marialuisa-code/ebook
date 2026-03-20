@@ -1,56 +1,3 @@
-// const projectDetails = {
-
-//     webtool: {
-
-//         title: "CMS Webtool",
-
-//         context: "Travail réalisé en entreprise dans le cadre de mon alternance. Le projet consistait à améliorer un CMS existant en Angular et Symfony, et à mettre en place des tests automatisés.",
-
-//         description: "J'ai participé à l'amélioration d'un CMS utilisé pour gérer différents contenus web. Mon travail a consisté à développer des fonctionnalités front-end avec Angular, améliorer certaines routes API côté Symfony et intégrer des tests fonctionnels avec Playwright.",
-
-//         stack: [{
-//                 name: "Angular",
-//                 icon: "devicon-angularjs-plain"
-//             },
-//             {
-//                 name: "Symfony",
-//                 icon: "devicon-symfony-original"
-//             },
-//             {
-//                 name: "Twig",
-//                 icon: "devicon-twig-original"
-//             },
-//             {
-//                 name: "Playwright",
-//                 icon: "devicon-playwright-plain"
-//             },
-//             {
-//                 name: "TypeScript",
-//                 icon: "devicon-typescript-plain"
-//             }
-//         ],
-
-//         technical: [
-
-//             "Implémentation de composants Angular pour améliorer l'interface utilisateur.",
-
-//             "Création et modification de routes API dans Symfony.",
-
-//             "Mise en place de tests automatisés avec Playwright pour sécuriser les fonctionnalités.",
-
-//             "Collaboration avec l'équipe de développement pour corriger des bugs et améliorer les performances."
-
-//         ],
-
-//         image: "../images/webtool.png",
-
-//         github: "https://github.com/ton-repo"
-
-//     },
-
-
-// };
-
 const projectDetails = {
     webtool: {
         title: "CMS Webtool",
@@ -70,7 +17,7 @@ const projectDetails = {
             "Collaboration avec l'équipe de développement pour corriger des bugs et améliorer les performances."
         ],
         image: "../images/webtool.png",
-        github: "https://github.com/ton-repo"
+        github: "Le lien GitHub n'est pas disponible pour ce projet car il s'agit d'un projet d'entreprise avec du code propriétaire."
     },
     
     "3d": {
@@ -108,7 +55,7 @@ const projectDetails = {
             "Mise en place d'un système d'authentification plus robuste."
         ],
         image: "../images/tuniv.png",
-        github: "https://github.com/ton-repo"
+        github: "https://iutbg-gitlab.iutbourg.univ-lyon1.fr/sae-but31/2025-26-web/gestion-championnats-et-tournois-multisports/backend_v2"
     },
     
     infirmiere: {
@@ -127,7 +74,7 @@ const projectDetails = {
             "Développement d'une interface responsive pour mobile et desktop."
         ],
         image: "../images/infirmiere.png",
-        github: "https://github.com/ton-repo"
+        github: "https://iutbg-gitlab.iutbourg.univ-lyon1.fr/sae-but2/2024-25/rv-infirmerie-site-bourg"
     },
     
     voitures: {
