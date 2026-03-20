@@ -73,7 +73,7 @@ const projectDetails = {
             "Implémentation d'un système d'authentification et de gestion des rôles.",
             "Développement d'une interface responsive pour mobile et desktop."
         ],
-        image: "../images/infirmiere.png",
+        image: "../images/infirmerie.png",
         github: "https://iutbg-gitlab.iutbourg.univ-lyon1.fr/sae-but2/2024-25/rv-infirmerie-site-bourg"
     },
     
