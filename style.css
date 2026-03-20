@@ -309,3 +309,12 @@ header {
         z-index: 50;
     }
 }
+
+.project-image {
+    width: 100%;
+    max-width: 800px;
+    border-radius: 12px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+    display: block;
+    margin: auto;
+}
