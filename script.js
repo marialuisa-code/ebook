@@ -98,6 +98,14 @@ const projects = [
         github: "",
         fullProject: "/Users/haran/OneDrive/Documents/IUT/3eme%20ann%C3%A9e/portfolio/ebook/projets/infirmiere.html"
     },
+    {
+        id: "smartwatch",
+        title: "Smartwatch santé",
+        description: "Application permettant de suivre les mouvements, la fréquence cardiaque et la température corporelle.",
+        tech: ["React","Spring Boot","SQL","Arduino"],
+        tags: ["Scolaire","Equipe"],
+        github: "",
+    }
     // {
     //     id: "voitures",
     //     title: "Projet Voitures",
